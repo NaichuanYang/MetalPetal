@@ -4,10 +4,10 @@
   "requires_arc" : true,
   "module_map" : "Frameworks\/MetalPetal\/MetalPetal.modulemap",
   "source" : {
-    "tag" : "1.11.1",
+    "tag" : "1.13.1",
     "git" : "https:\/\/github.com\/MetalPetal\/MetalPetal.git"
   },
-  "version" : "1.11.1",
+  "version" : "1.13.1",
   "platforms" : {
     "ios" : "9.0",
     "osx" : "10.13"
