@@ -27,6 +27,7 @@
 @implementation BlendModeViewController
 
 - (void)viewDidLoad {
+    
     [super viewDidLoad];
     self.renderView = [[MTIImageView alloc] initWithFrame:CGRectZero];
     [self.view insertSubview:self.renderView atIndex:0];
